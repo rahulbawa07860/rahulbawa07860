@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111387553/217889060-9d989925-1899-487d-9607-d2d76e2030e2.png)
+<img align="right" width="400" src="(https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-260nw-1078387013.jpg)" alt="aniket-code-creator" />
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
