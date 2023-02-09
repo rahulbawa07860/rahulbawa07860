@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Java, Spring Boot, MySQL**
-- 👨‍💻 All of my projects are available at [https://rahulbawa07860.github.io/](https://rahulbawa07860.github.io/)
+- 👨‍💻 All of my projects are available at https://rahulbawa07860.github.io/
 
 - 💬 Ask me about **Java, Spring Boot, MySQL**
 
