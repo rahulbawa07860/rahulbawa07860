@@ -1,5 +1,5 @@
 <img  width="100%" height="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTCMRBL1VcUm9oO5YsVpDH8fCoAOt0iTZMg&usqp=CAU"  />
-<img  align="right" width="400"  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTCMRBL1VcUm9oO5YsVpDH8fCoAOt0iTZMg&usqp=CAU](https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp)"  />
+<img  align="right" width="400"  src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp"  />
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
