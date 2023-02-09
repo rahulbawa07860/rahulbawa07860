@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Java, Spring Boot, MySQL**
-- 👨‍💻 All of my projects are available at https://rahulbawa07860.github.io/
+- 👨‍💻 All of my projects are available at [https://rahulbawa07860.github.io/](https://rahulbawa07860.github.io/)
 
 - 💬 Ask me about **Java, Spring Boot, MySQL**
 
@@ -25,7 +25,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-bawa-44b8ba171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-bawa-44b8ba171" height="30" width="40" /></a>
-<a href="https://instagram.com/bawa._official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawa._official" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahul_bawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_bawa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shivjimahadev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivjimahadev0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivjimahadev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivjimahadev0" height="30" width="40" /></a>
