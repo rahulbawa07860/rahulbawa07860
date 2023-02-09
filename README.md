@@ -1,4 +1,4 @@
-<img  width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTCMRBL1VcUm9oO5YsVpDH8fCoAOt0iTZMg&usqp=CAU"  />
+<img  width="100%" height="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTCMRBL1VcUm9oO5YsVpDH8fCoAOt0iTZMg&usqp=CAU"  />
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
