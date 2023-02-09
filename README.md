@@ -1,4 +1,5 @@
-https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013
+![image](https://user-images.githubusercontent.com/111387553/217889060-9d989925-1899-487d-9607-d2d76e2030e2.png)
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
