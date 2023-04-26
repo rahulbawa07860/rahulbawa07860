@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java, Spring Boot, MySQL**
 
 - 📫 How to reach me **shivjimahadev0@gmail.com**
-- 📫 click on for DM **https://www.linkedin.com/in/rahul-bawa-44b8ba171/**
+- 📫 LinkedIn **https://www.linkedin.com/in/rahul-bawa-44b8ba171/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10VrWvQVzQyJG8GxPHSL_7w4cBiijrhfv/view?usp=sharing](https://drive.google.com/file/d/10VrWvQVzQyJG8GxPHSL_7w4cBiijrhfv/view?usp=sharing)
 
