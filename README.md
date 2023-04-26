@@ -2,7 +2,7 @@
 <img  align="right" width="400"  src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp"  />
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Highly motivated and detail-oriented Java Backend Developer with strong technical skills and a passion for developing efficient and reliable software</h3>
 
 
 
